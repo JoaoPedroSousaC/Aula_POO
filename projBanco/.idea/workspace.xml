@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b47b72e7-cf5b-4038-954a-6bd630102c25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YfjgqyzOyMbgQL1U8dEl50tOYr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="JUnit.testeConta.testarDepositarNFunciona">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.edu.ifpb.main" />
+      <module name="modulo-gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.ifpb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeConta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="modulo-persistencia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.ifpb.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.edu.ifpb.teste" />
+      <option name="MAIN_CLASS_NAME" value="br.edu.ifpb.teste.testeConta" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeConta.testarDepositar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="modulo-persistencia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.ifpb.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.edu.ifpb.teste" />
+      <option name="MAIN_CLASS_NAME" value="br.edu.ifpb.teste.testeConta" />
+      <option name="METHOD_NAME" value="testarDepositar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testeConta.testarDepositarNFunciona" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="modulo-persistencia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.ifpb.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.edu.ifpb.teste" />
+      <option name="MAIN_CLASS_NAME" value="br.edu.ifpb.teste.testeConta" />
+      <option name="METHOD_NAME" value="testarDepositarNFunciona" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testeConta.testarDepositarNFunciona" />
+        <item itemvalue="JUnit.testeConta.testarDepositar" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="JUnit.testeConta" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b47b72e7-cf5b-4038-954a-6bd630102c25" name="Default Changelist" comment="" />
+      <created>1583340657050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583340657050</updated>
+      <workItem from="1583340661073" duration="12474000" />
+      <workItem from="1583495250056" duration="1643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1583353613886">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.736@0.0.1366.736" timestamp="1583353613886" />
+    <state width="1323" height="201" key="GridCell.Tab.0.bottom" timestamp="1583496990286">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="201" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1583496990286" />
+    <state width="1323" height="201" key="GridCell.Tab.0.center" timestamp="1583496990286">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="201" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1583496990286" />
+    <state width="1323" height="201" key="GridCell.Tab.0.left" timestamp="1583496990286">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="201" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1583496990286" />
+    <state width="1323" height="201" key="GridCell.Tab.0.right" timestamp="1583496990286">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="201" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1583496990286" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1583496550198">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1583496550198" />
+    <state x="66" y="64" key="new project wizard" timestamp="1583496984296">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="66" y="64" key="new project wizard/0.0.1366.736@0.0.1366.736" timestamp="1583496984296" />
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup" timestamp="1583345618510">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup/0.0.1366.736@0.0.1366.736" timestamp="1583345618510" />
+  </component>
+</project>
