@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cad3bc51-f54f-4ad9-a3e9-4e467ed912af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YkqYPwyGtQyuEM80jOprBdYt6O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestarHerança" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.edu.ifpb.TestarHerança" />
+      <module name="projHerança" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.ifpb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestarHerança" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cad3bc51-f54f-4ad9-a3e9-4e467ed912af" name="Default Changelist" comment="" />
+      <created>1583496986690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583496986690</updated>
+      <workItem from="1583496990068" duration="3213000" />
+      <workItem from="1583500269558" duration="43000" />
+      <workItem from="1583500365986" duration="938000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Project_Structure" timestamp="1583500041064">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="275" y="27" key="#Project_Structure/0.0.1366.736@0.0.1366.736" timestamp="1583500041064" />
+    <state x="400" y="27" key="#TestarHerança" timestamp="1583500513031">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="400" y="27" key="#TestarHerança/0.0.1366.736@0.0.1366.736" timestamp="1583500513031" />
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1583499396321">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.736@0.0.1366.736" timestamp="1583499396321" />
+    <state x="387" y="52" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1583499166044">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="387" y="52" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.736@0.0.1366.736" timestamp="1583499166044" />
+    <state x="517" y="285" width="356" height="166" key="Github.CreateGistDialog" timestamp="1583498137347">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="517" y="285" width="356" height="166" key="Github.CreateGistDialog/0.0.1366.736@0.0.1366.736" timestamp="1583498137347" />
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom" timestamp="1583500515791">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1583500515791" />
+    <state width="1323" height="181" key="GridCell.Tab.0.center" timestamp="1583500515791">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1583500515791" />
+    <state width="1323" height="181" key="GridCell.Tab.0.left" timestamp="1583500515791">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1583500515791" />
+    <state width="1323" height="181" key="GridCell.Tab.0.right" timestamp="1583500515791">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1583500515791" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1583499066119">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1583499066119" />
+    <state x="0" y="0" width="737" height="736" key="find.popup" timestamp="1583497463440">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="0" y="0" width="737" height="736" key="find.popup/0.0.1366.736@0.0.1366.736" timestamp="1583497463440" />
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup" timestamp="1583499365045">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup/0.0.1366.736@0.0.1366.736" timestamp="1583499365045" />
+  </component>
+</project>
