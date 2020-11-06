@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b47b72e7-cf5b-4038-954a-6bd630102c25" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,26 +52,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YfjgqyzOyMbgQL1U8dEl50tOYr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -63,7 +89,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="JUnit.testeConta.testarDepositarNFunciona">
+  <component name="RunManager" selected="Application.main">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.edu.ifpb.main" />
       <module name="modulo-gui" />
@@ -73,6 +99,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,13 +163,14 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="JUnit.testeConta.testarDepositarNFunciona" />
         <item itemvalue="JUnit.testeConta.testarDepositar" />
-        <item itemvalue="Application.main" />
         <item itemvalue="JUnit.testeConta" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -145,44 +183,60 @@
       <updated>1583340657050</updated>
       <workItem from="1583340661073" duration="12474000" />
       <workItem from="1583495250056" duration="1643000" />
+      <workItem from="1604674976788" duration="16206000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1583353613886">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1323" height="240" key="GridCell.Tab.0.bottom" timestamp="1604694741840">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.736@0.0.1366.736" timestamp="1583353613886" />
-    <state width="1323" height="201" key="GridCell.Tab.0.bottom" timestamp="1583496990286">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1323" height="240" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604694741840" />
+    <state width="1323" height="240" key="GridCell.Tab.0.center" timestamp="1604694741840">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="201" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1583496990286" />
-    <state width="1323" height="201" key="GridCell.Tab.0.center" timestamp="1583496990286">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1323" height="240" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1604694741840" />
+    <state width="1323" height="240" key="GridCell.Tab.0.left" timestamp="1604694741840">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="201" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1583496990286" />
-    <state width="1323" height="201" key="GridCell.Tab.0.left" timestamp="1583496990286">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1323" height="240" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1604694741840" />
+    <state width="1323" height="240" key="GridCell.Tab.0.right" timestamp="1604694741840">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="201" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1583496990286" />
-    <state width="1323" height="201" key="GridCell.Tab.0.right" timestamp="1583496990286">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1323" height="240" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604694741840" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1604694445511">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="201" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1583496990286" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1583496550198">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604694445511" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1604694445511">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1583496550198" />
-    <state x="66" y="64" key="new project wizard" timestamp="1583496984296">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1604694445511" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1604694445511">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="66" y="64" key="new project wizard/0.0.1366.736@0.0.1366.736" timestamp="1583496984296" />
-    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup" timestamp="1583345618510">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1604694445511" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1604694445511">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup/0.0.1366.736@0.0.1366.736" timestamp="1583345618510" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1604694445511" />
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog" timestamp="1604689941222">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="24" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1604689941222" />
   </component>
 </project>
